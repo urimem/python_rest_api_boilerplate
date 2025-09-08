@@ -213,3 +213,17 @@ ENV/
 /site
 
 # End of https://www.gitignore.io/api/macos,linux,django,python,pycharm
+
+# Frontend Next.js
+frontend/.next/
+frontend/out/
+frontend/node_modules/
+frontend/.env*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnpm-debug.log*
+frontend/.vercel
+
+# Build and temp files
+cookies.txt
