@@ -67,7 +67,7 @@ npm run dev
 
 ### 3. Access the Application
 
-- **Frontend:** http://localhost:3000
+- **Frontend:** http://localhost:3000 or 3001
 - **Backend API:** http://localhost:8000
 - **API Documentation:** http://localhost:8000/docs
 
@@ -90,7 +90,7 @@ npm run dev
 
 ## How to Use
 
-1. **Visit the Frontend:** Go to http://localhost:3000
+1. **Visit the Frontend:** Go to http://localhost:3000 or 3001
 2. **Login:** Use the demo credentials:
    - Username: `testuser`
    - Password: `secret123`
